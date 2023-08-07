@@ -1,6 +1,6 @@
 #About Me:
 
-Name: Yunus <br>Location: Norway<br>Age: 29<br>Gender: Male<br>Profession: Frontend student, soon to become a frontend developer<br><br>Currently working on my personal portfolio <br><br>Searching for more experience in the frontend field <br><br>looking for a company willing to offer me a placement<br>among their team of frontend developers
+Name: Yunus <br>Location: Norway<br>Age: 29<br>Gender: Male<br>Profession: Frontend developer<br><br>Currently working on my personal portfolio <br><br>Searching for more experience in the frontend field <br><br>looking for a company willing to offer me a placement<br>among their team of frontend developers
 
 
 ## 🌐 Socials:
